@@ -20,12 +20,7 @@ I’m always exploring new technologies and improving my skills to create better
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,figma,vscode,python,php" />
 </p>
 
----
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedabisAmina&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
-</p>
 
 ---
  *Thanks for visiting my profile! I’m always open to learning, collaborating, and building amazing things on the web.*
